@@ -3,7 +3,7 @@ const About = () => {
     <>
       <div class="jumbotron jumbotron-fluid">
         <div class="container">
-          <h1 class="display-4">Nitish</h1>
+          <h1 class="display-4">Welcome to our website</h1>
           <p class="lead">
             We are a team of experienced professionals with a passion for
             technology and innovation. Our company was founded with the goal of
